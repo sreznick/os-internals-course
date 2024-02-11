@@ -1,5 +1,5 @@
 
-## Toolchain для RISC-V5
+## Toolchain для RISC-V
 
 [GitHub](https://github.com/riscv-collab/riscv-gnu-toolchain) 
 
